@@ -93,6 +93,7 @@
   `var 이름;`
 
 * 자바스트립트는 대소문자를 구별하므로 각각 별개의 다음은 변수다.
+  
   `var firstName;`
 
   `var FirstName;`
